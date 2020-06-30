@@ -10,7 +10,7 @@ import Life from './components/Life';
 import Work from './components/Work';
 import Times from './components/Times';
 import Stories from './components/Stories';
-import AndAfter from './components/AndAfter';
+import AfterAphra from './components/AfterAphra';
 import Footer from './components/Footer';
 import './App.css';
 
@@ -22,15 +22,18 @@ const App = () => {
     <Router basename={process.env.PUBLIC_URL}>
       <div className="site-wrapper">
         <ul className="site-nav">
-          <li>
-            <Link to="/">Home</Link>
-          </li>
-          <li>
-            <Link to="/life">Life</Link>
-          </li>
-          <li>
-            <Link to="/work">Work</Link>
-          </li>
+          <span className="reponsive-topline">
+            <li>
+              <Link to="/">Home</Link>
+            </li>
+            <li>
+              <Link to="/life">Life</Link>
+            </li>
+            <li>
+              <Link to="/work">Work</Link>
+            </li>
+          </span>
+          <span className="reponsive-bottomline">
           <li>
             <Link to="/times">Times</Link>
           </li>
@@ -38,8 +41,9 @@ const App = () => {
             <Link to="/stories">Stories</Link>
           </li>
           <li>
-            <Link to="/and-after">...And After</Link>
+            <Link to="/after-aphra">After Aphra</Link>
           </li>
+          </span>
         </ul>
 
         <Switch>
@@ -55,8 +59,8 @@ const App = () => {
           <Route path="/stories">
             <Stories />
           </Route>
-          <Route path="/and-after">
-            <AndAfter />
+          <Route path="/after-aphra">
+            <AfterAphra />
           </Route>
           <Route path="/">
             <HomePage />

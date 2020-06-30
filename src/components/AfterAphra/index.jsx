@@ -1,14 +1,14 @@
 import React from 'react';
 import ContentBox from '../ContentBox';
-import andAfterContent from '../../constants/andafter-content';
-import './AndAfter.css';
+import afterAphraContent from '../../constants/afteraphra-content';
+import './AfterAphra.css';
 
 
 
-const AndAfter = () => {
+const AfterAphra= () => {
   return (
     <div className="andafter-wrapper">
-      {andAfterContent.map(story => (
+      {afterAphraContent.map(story => (
             <ContentBox title={story.title} text={story.text} image={story.image} source={story.source} />
           ))}
     </div>
@@ -16,4 +16,4 @@ const AndAfter = () => {
 }
 
 
-export default AndAfter;
+export default AfterAphra;
