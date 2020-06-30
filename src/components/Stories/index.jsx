@@ -4,7 +4,7 @@ import {
 } from "react-router-dom";
 import VideoContainer from '../VideoContainer';
 import './Stories.css';
-import storiesList from '../../constants/storieslist.js';
+import storiesContent from '../../constants/stories-content.js';
 
 const Stories = () => {
 
@@ -15,14 +15,14 @@ const Stories = () => {
       <div className="menu">
         <h1 className="title">Here are some stories</h1>
     
-        {storiesList.map(story => (
+        {storiesContent.map(story => (
           <span className="story-link">
           <Link to={story.path}>{story.name}</Link>
         </span>
         ))}
         
         <Switch>
-          {storiesList.map(story => (
+          {storiesContent.map(story => (
             <Route path={story.path}>
             <VideoContainer character={story} />
           </Route>

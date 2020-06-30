@@ -1,11 +1,11 @@
 import React from 'react';
 import './TextBox.css';
 
-const TextBox = ({title, children}) => {
+const TextBox = ({title, text}) => {
    return (
         <div className="text-box">
             <h1>{title}</h1>
-            <p>{children}</p>
+            <p>{text}</p>
         </div>
     )
 }

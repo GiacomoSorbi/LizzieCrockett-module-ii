@@ -1,11 +1,11 @@
 import React from 'react';
 import './ImageBox.css'
 
-const ImageBox = ({ details, source }) => {
+const ImageBox = ({ image, source }) => {
     return (
     <figure className="image-box">
-        <img src={source} alt={details} />
-        <figcaption><i>{details}</i></figcaption>
+        <img src={source} alt={image} />
+        <figcaption><i>{image}</i></figcaption>
     </figure>
     )
 }

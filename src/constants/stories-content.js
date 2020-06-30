@@ -1,4 +1,4 @@
-const storiesList = [
+const storiesContent = [
   {
     path: '/john-banister',
     name: 'John Banister',
@@ -55,4 +55,4 @@ const storiesList = [
   }
 ];
 
-export default storiesList;
+export default storiesContent;
