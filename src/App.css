@@ -36,3 +36,13 @@ body {
 Footer {
     margin: 50px 0px 50px 0px;
 }
+@media only screen and (max-width: 600px) {
+
+    body {
+        background-image: none;
+    }
+    .content-wrapper {
+         display: flex;
+            flex-direction: column;
+       }
+  }
