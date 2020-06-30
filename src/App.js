@@ -19,7 +19,7 @@ import './App.css';
 const App = () => {
 
   return (
-    <Router>
+    <Router basename={process.env.PUBLIC_URL}>
       <div className="site-wrapper">
         <ul className="site-nav">
           <li>
