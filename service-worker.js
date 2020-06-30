@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/LizzieCrockett-module-ii/precache-manifest.19484ba3a0ec353dbc22e08fc887a1a3.js"
+  "/LizzieCrockett-module-ii/precache-manifest.92a48d1d4cbefd72fdb881458b018321.js"
 );
 
 self.addEventListener('message', (event) => {
