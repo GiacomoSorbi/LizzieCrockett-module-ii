@@ -1,24 +1,23 @@
 {
   "files": {
-    "main.css": "/LizzieCrockett-module-ii/static/css/main.7af6079e.chunk.css",
-    "main.js": "/LizzieCrockett-module-ii/static/js/main.e4f203f9.chunk.js",
-    "main.js.map": "/LizzieCrockett-module-ii/static/js/main.e4f203f9.chunk.js.map",
+    "main.css": "/LizzieCrockett-module-ii/static/css/main.e2757e9d.chunk.css",
+    "main.js": "/LizzieCrockett-module-ii/static/js/main.e0085226.chunk.js",
+    "main.js.map": "/LizzieCrockett-module-ii/static/js/main.e0085226.chunk.js.map",
     "runtime-main.js": "/LizzieCrockett-module-ii/static/js/runtime-main.29407199.js",
     "runtime-main.js.map": "/LizzieCrockett-module-ii/static/js/runtime-main.29407199.js.map",
-    "static/js/2.db3f6bf9.chunk.js": "/LizzieCrockett-module-ii/static/js/2.db3f6bf9.chunk.js",
-    "static/js/2.db3f6bf9.chunk.js.map": "/LizzieCrockett-module-ii/static/js/2.db3f6bf9.chunk.js.map",
+    "static/js/2.c7f26c6a.chunk.js": "/LizzieCrockett-module-ii/static/js/2.c7f26c6a.chunk.js",
+    "static/js/2.c7f26c6a.chunk.js.map": "/LizzieCrockett-module-ii/static/js/2.c7f26c6a.chunk.js.map",
     "index.html": "/LizzieCrockett-module-ii/index.html",
-    "precache-manifest.f98af419b4866da60255c2a0dd8512f4.js": "/LizzieCrockett-module-ii/precache-manifest.f98af419b4866da60255c2a0dd8512f4.js",
+    "precache-manifest.a2348b79552c6a531d4e85dfb1e3c390.js": "/LizzieCrockett-module-ii/precache-manifest.a2348b79552c6a531d4e85dfb1e3c390.js",
     "service-worker.js": "/LizzieCrockett-module-ii/service-worker.js",
-    "static/css/main.7af6079e.chunk.css.map": "/LizzieCrockett-module-ii/static/css/main.7af6079e.chunk.css.map",
-    "static/js/2.db3f6bf9.chunk.js.LICENSE.txt": "/LizzieCrockett-module-ii/static/js/2.db3f6bf9.chunk.js.LICENSE.txt",
-    "static/media/histories.png": "/LizzieCrockett-module-ii/static/media/histories.5f1bb326.png",
+    "static/css/main.e2757e9d.chunk.css.map": "/LizzieCrockett-module-ii/static/css/main.e2757e9d.chunk.css.map",
+    "static/js/2.c7f26c6a.chunk.js.LICENSE.txt": "/LizzieCrockett-module-ii/static/js/2.c7f26c6a.chunk.js.LICENSE.txt",
     "static/media/App.css": "/LizzieCrockett-module-ii/static/media/lelyportrait.296b4970.jpg"
   },
   "entrypoints": [
     "static/js/runtime-main.29407199.js",
-    "static/js/2.db3f6bf9.chunk.js",
-    "static/css/main.7af6079e.chunk.css",
-    "static/js/main.e4f203f9.chunk.js"
+    "static/js/2.c7f26c6a.chunk.js",
+    "static/css/main.e2757e9d.chunk.css",
+    "static/js/main.e0085226.chunk.js"
   ]
 }
