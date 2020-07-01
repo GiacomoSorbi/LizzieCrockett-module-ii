@@ -13,11 +13,13 @@ const Stories = () => {
     <Router>
       <div className="stories-wrapper">
       <div className="menu">
-        <h1 className="title">Here are some stories</h1>
+        <h1 className="title">Memories of Aphra</h1>
+        <p>These are all real people who lived and worked in London and knew Aphra Behn well. <br /> 
+        Click on the links to hear their stories.</p>
     
         {storiesContent.map(story => (
           <span className="story-link">
-          <Link to={story.path}>{story.name}</Link>
+          <Link to={story.path}>{`${story.name}, ${story.occupation}`}</Link>
         </span>
         ))}
         

@@ -7,7 +7,7 @@ import './AfterAphra.css';
 
 const AfterAphra= () => {
   return (
-    <div className="andafter-wrapper">
+    <div className="afteraphra-wrapper">
       {afterAphraContent.map(story => (
             <ContentBox title={story.title} text={story.text} image={story.image} source={story.source} />
           ))}

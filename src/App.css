@@ -8,7 +8,9 @@ body {
     background-repeat: no-repeat;
     background-size: cover;
 }
-
+ h1 {
+     font-family: 'IM Fell Double Pica', serif;
+ }
 .site-nav {
     display: flex;
     flex-direction: row;
@@ -51,7 +53,7 @@ Footer {
             flex-direction: column;
        }
 
-       .site-nav {
+    .site-nav {
         display: flex;
         flex-direction: column;
         padding-inline-start: 0px;
@@ -61,6 +63,12 @@ Footer {
         padding-inline-start: 0px;
         padding: 5px 5px 0px 10px;
     }
+
+    .intro-text {
+        text-align: center;
+        margin: 50px 100px 50px 100px;
+    }
+    
 
     .image-box img {
         width: 100%;
@@ -75,11 +83,10 @@ Footer {
         margin-left: 20px;
     }
 
-    .story-link {
-        padding-right: 10px;
-        display: grid;
-        grid-template-rows: 1fr 1fr 1fr;
+    iframe {
+        width: 100%;
     }
+
 
     .footer {
         display: flex;
