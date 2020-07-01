@@ -1,15 +1,14 @@
 import React from 'react';
 import ContentBox from '../ContentBox';
 import timesContent from '../../constants/times-content';
-import './Times.css';
-
 
 
 
 
 const Times = () => {
   return (
-    <div className="times-wrapper">
+    <div className="innerpage-wrapper">
+      <h1 className="page-title">The times Aphra lived in</h1>
       {timesContent.map(story => (
             <ContentBox title={story.title} text={story.text} image={story.image} source={story.source} />
           ))}

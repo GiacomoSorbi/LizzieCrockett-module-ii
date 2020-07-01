@@ -11,11 +11,11 @@ const Stories = () => {
 
   return (
     <Router>
-      <div className="stories-wrapper">
+      <div className="innerpage-wrapper">
+      <h1 className="page-title">Aphra, by her friends</h1>
       <div className="menu">
-        <h1 className="title">Memories of Aphra</h1>
         <p>These are all real people who lived and worked in London and knew Aphra Behn well. <br /> 
-        Click on the links to hear their stories.</p>
+        Click on the links to hear their stories and memories.</p>
     
         {storiesContent.map(story => (
           <span className="story-link">

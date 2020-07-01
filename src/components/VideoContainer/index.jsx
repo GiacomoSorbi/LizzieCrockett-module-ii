@@ -20,7 +20,7 @@ const VideoContainer = ({ character }) => {
 
     return (
         <div className="videocontainer-wrapper">
-            <iframe title={character.name} width="560" height="315" src={character.video} frameborder="0" allowfullscreen></iframe>
+            <iframe title={character.name} width="800" height="450" src={character.video} frameborder="0" allowfullscreen></iframe>
             <h3>{character.name}, {character.occupation}</h3>
             {!transcript ?
                 <>

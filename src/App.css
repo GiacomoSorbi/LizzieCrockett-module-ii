@@ -39,6 +39,29 @@ body {
     color: white;
 }
 
+.innerpage-wrapper {
+    background-color: rgba(255, 255, 255, 0.5);
+    font-family: 'ABeeZee', sans-serif;
+    display: flex;
+    flex-direction: column;
+    font-size: 20px;
+    margin: 50px;
+}
+
+.page-title {
+    margin-bottom: 0px;
+}
+
+.content-wrapper {
+    display: flex;
+    flex-direction: row;
+    background-color: white;
+    margin: 20px 30px 20px 30px;
+}
+
+h1 {
+    font-size: 1.5em;
+}
 
 Footer {
     margin: 50px 0px 50px 0px;
