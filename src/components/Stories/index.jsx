@@ -10,7 +10,7 @@ const Stories = () => {
 
 
   return (
-    <Router>
+    <Router basename={process.env.PUBLIC_URL}>
       <div className="innerpage-wrapper">
       <h1 className="page-title">Aphra, by her friends</h1>
       <div className="menu">
