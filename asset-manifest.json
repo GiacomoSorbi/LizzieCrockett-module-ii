@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.css": "/LizzieCrockett-module-ii/static/css/main.e2757e9d.chunk.css",
-    "main.js": "/LizzieCrockett-module-ii/static/js/main.e0085226.chunk.js",
-    "main.js.map": "/LizzieCrockett-module-ii/static/js/main.e0085226.chunk.js.map",
+    "main.css": "/LizzieCrockett-module-ii/static/css/main.b6674226.chunk.css",
+    "main.js": "/LizzieCrockett-module-ii/static/js/main.bdde5358.chunk.js",
+    "main.js.map": "/LizzieCrockett-module-ii/static/js/main.bdde5358.chunk.js.map",
     "runtime-main.js": "/LizzieCrockett-module-ii/static/js/runtime-main.29407199.js",
     "runtime-main.js.map": "/LizzieCrockett-module-ii/static/js/runtime-main.29407199.js.map",
-    "static/js/2.c7f26c6a.chunk.js": "/LizzieCrockett-module-ii/static/js/2.c7f26c6a.chunk.js",
-    "static/js/2.c7f26c6a.chunk.js.map": "/LizzieCrockett-module-ii/static/js/2.c7f26c6a.chunk.js.map",
+    "static/js/2.b5df2823.chunk.js": "/LizzieCrockett-module-ii/static/js/2.b5df2823.chunk.js",
+    "static/js/2.b5df2823.chunk.js.map": "/LizzieCrockett-module-ii/static/js/2.b5df2823.chunk.js.map",
     "index.html": "/LizzieCrockett-module-ii/index.html",
-    "precache-manifest.a2348b79552c6a531d4e85dfb1e3c390.js": "/LizzieCrockett-module-ii/precache-manifest.a2348b79552c6a531d4e85dfb1e3c390.js",
+    "precache-manifest.aa82188c6c8be0264be328fe9fa6988c.js": "/LizzieCrockett-module-ii/precache-manifest.aa82188c6c8be0264be328fe9fa6988c.js",
     "service-worker.js": "/LizzieCrockett-module-ii/service-worker.js",
-    "static/css/main.e2757e9d.chunk.css.map": "/LizzieCrockett-module-ii/static/css/main.e2757e9d.chunk.css.map",
-    "static/js/2.c7f26c6a.chunk.js.LICENSE.txt": "/LizzieCrockett-module-ii/static/js/2.c7f26c6a.chunk.js.LICENSE.txt",
+    "static/css/main.b6674226.chunk.css.map": "/LizzieCrockett-module-ii/static/css/main.b6674226.chunk.css.map",
+    "static/js/2.b5df2823.chunk.js.LICENSE.txt": "/LizzieCrockett-module-ii/static/js/2.b5df2823.chunk.js.LICENSE.txt",
     "static/media/App.css": "/LizzieCrockett-module-ii/static/media/lelyportrait.296b4970.jpg"
   },
   "entrypoints": [
     "static/js/runtime-main.29407199.js",
-    "static/js/2.c7f26c6a.chunk.js",
-    "static/css/main.e2757e9d.chunk.css",
-    "static/js/main.e0085226.chunk.js"
+    "static/js/2.b5df2823.chunk.js",
+    "static/css/main.b6674226.chunk.css",
+    "static/js/main.bdde5358.chunk.js"
   ]
 }
