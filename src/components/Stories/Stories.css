@@ -18,6 +18,7 @@
 
 .story-link a {
     text-decoration: none;
+    color: black;
 }
 
 .story-link a:hover {

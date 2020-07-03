@@ -6,7 +6,7 @@ body {
     font-family: 'IM Fell Double Pica', serif;
     background-image: url('./images/lelyportrait.jpg');
     background-repeat: no-repeat;
-    background-size: cover;
+    background-position: -135px -650px;
 }
  h1 {
      font-family: 'IM Fell Double Pica', serif;
@@ -40,7 +40,6 @@ body {
 }
 
 .innerpage-wrapper {
-    background-color: rgba(255, 255, 255, 0.5);
     font-family: 'ABeeZee', sans-serif;
     display: flex;
     flex-direction: column;
@@ -50,6 +49,7 @@ body {
 
 .page-title {
     margin-bottom: 0px;
+    color: white;
 }
 
 .content-wrapper {
