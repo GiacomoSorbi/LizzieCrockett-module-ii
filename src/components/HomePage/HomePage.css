@@ -1,5 +1,3 @@
-
-
 .homepage-wrapper {
     color: white;
     display: flex;
@@ -13,6 +11,10 @@
     margin: 100px 100px 50px 200px;
 }
 
+/*animation which fades in the homepage content in stages, starting 1s after page load, 
+with each subsequent section appearing 2s after the last.
+Fade in happens over 2 seconds. "animation-fill-mode: backwards" ensures that the content is not visible before the animation begins*/
+
 @keyframes fadein {
     from { opacity: 0; }
     to   { opacity: 1; }
@@ -24,16 +26,11 @@
     animation-fill-mode: backwards;
 }
 
-
 #poet {
        animation: fadein 2s;
        animation-delay: 3s;
        animation-fill-mode: backwards;
 }
-
-
-
-
 
 #spy {
     
@@ -42,13 +39,9 @@
       animation-fill-mode: backwards;
 }
 
-
-
 #intro {
       margin-top: 100px;
       animation: fadein 2s;
       animation-delay: 7s;
       animation-fill-mode: backwards;
 }
-
-

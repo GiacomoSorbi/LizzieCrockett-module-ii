@@ -31,4 +31,5 @@ const workContent = [
     }
 ]
 
+//exports the array workContent for use elsewhere
 export default workContent;

@@ -55,4 +55,5 @@ const storiesContent = [
   }
 ];
 
+//exports the array storiesContent for use elsewhere
 export default storiesContent;

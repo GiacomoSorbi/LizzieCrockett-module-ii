@@ -31,4 +31,5 @@ const lifeContent = [
     }
 ]
 
+//exports the array lifeContent for use elsewhere
 export default lifeContent;

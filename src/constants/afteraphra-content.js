@@ -25,4 +25,5 @@ const afterAphraContent = [
     },
 ]
 
+//exports the array afterAphraContent for use elsewhere
 export default afterAphraContent;

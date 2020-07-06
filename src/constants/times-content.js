@@ -25,4 +25,5 @@ const timesContent = [
     },
 ]
 
+//exports the array timesContent for use elsewhere
 export default timesContent;
