@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "5bc7bbcc70dea5e3a3306bce66862a19",
+    "revision": "d7b7b791c0bc00dd0a5bf8f391c4d03f",
     "url": "/LizzieCrockett-module-ii/index.html"
   },
   {
-    "revision": "71accd4fad0dd0a4a87b",
+    "revision": "0c8a0cb932115a651ba0",
     "url": "/LizzieCrockett-module-ii/static/css/main.54827cc2.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/LizzieCrockett-module-ii/static/js/2.b5df2823.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "71accd4fad0dd0a4a87b",
-    "url": "/LizzieCrockett-module-ii/static/js/main.a5717ab6.chunk.js"
+    "revision": "0c8a0cb932115a651ba0",
+    "url": "/LizzieCrockett-module-ii/static/js/main.93f8cf9d.chunk.js"
   },
   {
     "revision": "ce5c132d8697d839e6c2",
