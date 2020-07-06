@@ -8,9 +8,9 @@ import './Stories.css';
 import storiesContent from '../../constants/stories-content.js';
 
 //The component rendering the page with video stories performed by actors
+//routing with fix to ensure successful deployment to Github Pages 
 const Stories = () => {
   return (
-    //routing with fix to ensure successful deployment to Github Pages 
     <Router basename={process.env.PUBLIC_URL}>
       <div className="innerpage-wrapper">
         <h1 className="page-title">Aphra, by her friends</h1>

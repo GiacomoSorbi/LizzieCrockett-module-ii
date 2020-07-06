@@ -19,15 +19,13 @@ import './App.css';
 
 
 //the main body of the site
-
+// routing with fix to ensure successful deployment to Github Pages 
 const App = () => {
   return (
-    // routing with fix to ensure successful deployment to Github Pages 
     <Router basename={process.env.PUBLIC_URL}>
       <div className="site-wrapper">
         <ul className="site-nav">
           <span className="reponsive-topline">
-            {/*creating navigation menu links*/}
             <li>
               <Link to="/">Home</Link>
             </li>
@@ -52,7 +50,6 @@ const App = () => {
         </ul>
 
         <Switch>
-          {/*renders the component when path matches the relevant path prop*/}
           <Route path="/life">
             <Life />
           </Route>
