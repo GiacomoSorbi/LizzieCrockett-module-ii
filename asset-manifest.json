@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/LizzieCrockett-module-ii/static/css/main.54827cc2.chunk.css",
+    "main.css": "/LizzieCrockett-module-ii/static/css/main.967f0de0.chunk.css",
     "main.js": "/LizzieCrockett-module-ii/static/js/main.93f8cf9d.chunk.js",
     "main.js.map": "/LizzieCrockett-module-ii/static/js/main.93f8cf9d.chunk.js.map",
     "runtime-main.js": "/LizzieCrockett-module-ii/static/js/runtime-main.29407199.js",
@@ -8,16 +8,16 @@
     "static/js/2.b5df2823.chunk.js": "/LizzieCrockett-module-ii/static/js/2.b5df2823.chunk.js",
     "static/js/2.b5df2823.chunk.js.map": "/LizzieCrockett-module-ii/static/js/2.b5df2823.chunk.js.map",
     "index.html": "/LizzieCrockett-module-ii/index.html",
-    "precache-manifest.05f3afd4240892c5a312893ece5cbbc8.js": "/LizzieCrockett-module-ii/precache-manifest.05f3afd4240892c5a312893ece5cbbc8.js",
+    "precache-manifest.e470eb679b76971a836959c8138e91e1.js": "/LizzieCrockett-module-ii/precache-manifest.e470eb679b76971a836959c8138e91e1.js",
     "service-worker.js": "/LizzieCrockett-module-ii/service-worker.js",
-    "static/css/main.54827cc2.chunk.css.map": "/LizzieCrockett-module-ii/static/css/main.54827cc2.chunk.css.map",
+    "static/css/main.967f0de0.chunk.css.map": "/LizzieCrockett-module-ii/static/css/main.967f0de0.chunk.css.map",
     "static/js/2.b5df2823.chunk.js.LICENSE.txt": "/LizzieCrockett-module-ii/static/js/2.b5df2823.chunk.js.LICENSE.txt",
     "static/media/App.css": "/LizzieCrockett-module-ii/static/media/lelyportrait.200794a5.jpg"
   },
   "entrypoints": [
     "static/js/runtime-main.29407199.js",
     "static/js/2.b5df2823.chunk.js",
-    "static/css/main.54827cc2.chunk.css",
+    "static/css/main.967f0de0.chunk.css",
     "static/js/main.93f8cf9d.chunk.js"
   ]
 }
