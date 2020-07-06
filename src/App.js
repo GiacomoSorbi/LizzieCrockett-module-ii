@@ -18,8 +18,10 @@ import Footer from './components/Footer';
 import './App.css';
 
 
-//the main body of the site
-// routing with fix to ensure successful deployment to Github Pages 
+/*the main body of the site,
+routing with fix to ensure successful deployment to Github Pages
+<Link> creates nav menu links, 
+<Route> renders its child component when the path matches the path given as a prop*/ 
 const App = () => {
   return (
     <Router basename={process.env.PUBLIC_URL}>

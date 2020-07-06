@@ -7,8 +7,8 @@ import './Stories.css';
 //imports the array storiesContent, which contains the JSON data for rendering in the ContentBox component
 import storiesContent from '../../constants/stories-content.js';
 
-//The component rendering the page with video stories performed by actors
-//routing with fix to ensure successful deployment to Github Pages 
+/*The component rendering the page with video stories performed by actors,
+routing with fix to ensure successful deployment to Github Pages*/ 
 const Stories = () => {
   return (
     <Router basename={process.env.PUBLIC_URL}>
