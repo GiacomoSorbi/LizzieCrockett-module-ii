@@ -22,7 +22,7 @@ Fade in happens over 2 seconds. "animation-fill-mode: backwards" ensures that th
 
 #playwright {
     animation: fadein 2s;
-    animation-delay: 1s;
+    animation-delay: 0.5s;
     animation-fill-mode: backwards;
 }
 
