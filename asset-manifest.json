@@ -1,23 +1,41 @@
 {
   "files": {
-    "main.css": "/LizzieCrockett-module-ii/static/css/main.967f0de0.chunk.css",
-    "main.js": "/LizzieCrockett-module-ii/static/js/main.93f8cf9d.chunk.js",
-    "main.js.map": "/LizzieCrockett-module-ii/static/js/main.93f8cf9d.chunk.js.map",
+    "main.css": "/LizzieCrockett-module-ii/static/css/main.dd1c063e.chunk.css",
+    "main.js": "/LizzieCrockett-module-ii/static/js/main.abe1a6d3.chunk.js",
+    "main.js.map": "/LizzieCrockett-module-ii/static/js/main.abe1a6d3.chunk.js.map",
     "runtime-main.js": "/LizzieCrockett-module-ii/static/js/runtime-main.29407199.js",
     "runtime-main.js.map": "/LizzieCrockett-module-ii/static/js/runtime-main.29407199.js.map",
-    "static/js/2.b5df2823.chunk.js": "/LizzieCrockett-module-ii/static/js/2.b5df2823.chunk.js",
-    "static/js/2.b5df2823.chunk.js.map": "/LizzieCrockett-module-ii/static/js/2.b5df2823.chunk.js.map",
+    "static/js/2.05fd3aa4.chunk.js": "/LizzieCrockett-module-ii/static/js/2.05fd3aa4.chunk.js",
+    "static/js/2.05fd3aa4.chunk.js.map": "/LizzieCrockett-module-ii/static/js/2.05fd3aa4.chunk.js.map",
     "index.html": "/LizzieCrockett-module-ii/index.html",
-    "precache-manifest.e470eb679b76971a836959c8138e91e1.js": "/LizzieCrockett-module-ii/precache-manifest.e470eb679b76971a836959c8138e91e1.js",
+    "precache-manifest.2a75a7ed3820a56431ba18fec97c6afa.js": "/LizzieCrockett-module-ii/precache-manifest.2a75a7ed3820a56431ba18fec97c6afa.js",
     "service-worker.js": "/LizzieCrockett-module-ii/service-worker.js",
-    "static/css/main.967f0de0.chunk.css.map": "/LizzieCrockett-module-ii/static/css/main.967f0de0.chunk.css.map",
-    "static/js/2.b5df2823.chunk.js.LICENSE.txt": "/LizzieCrockett-module-ii/static/js/2.b5df2823.chunk.js.LICENSE.txt",
-    "static/media/App.css": "/LizzieCrockett-module-ii/static/media/lelyportrait.200794a5.jpg"
+    "static/css/main.dd1c063e.chunk.css.map": "/LizzieCrockett-module-ii/static/css/main.dd1c063e.chunk.css.map",
+    "static/js/2.05fd3aa4.chunk.js.LICENSE.txt": "/LizzieCrockett-module-ii/static/js/2.05fd3aa4.chunk.js.LICENSE.txt",
+    "static/media/agnesdecastro.jpg": "/LizzieCrockett-module-ii/static/media/agnesdecastro.31361118.jpg",
+    "static/media/antwerp.jpg": "/LizzieCrockett-module-ii/static/media/antwerp.1e3ae13e.jpg",
+    "static/media/aphralinedrawing.png": "/LizzieCrockett-module-ii/static/media/aphralinedrawing.2f3c9d44.png",
+    "static/media/bealeportrait.png": "/LizzieCrockett-module-ii/static/media/bealeportrait.d60525a1.png",
+    "static/media/bodypolitic.png": "/LizzieCrockett-module-ii/static/media/bodypolitic.efde199a.png",
+    "static/media/brontesisters.jpg": "/LizzieCrockett-module-ii/static/media/brontesisters.62d17053.jpg",
+    "static/media/charlesii.jpg": "/LizzieCrockett-module-ii/static/media/charlesii.4142d9d0.jpg",
+    "static/media/feignedcourtesans.jpg": "/LizzieCrockett-module-ii/static/media/feignedcourtesans.f259ceef.jpg",
+    "static/media/fireoflondon.jpg": "/LizzieCrockett-module-ii/static/media/fireoflondon.857d9ca9.jpg",
+    "static/media/grave.jpg": "/LizzieCrockett-module-ii/static/media/grave.931b1cc8.jpg",
+    "static/media/histories.png": "/LizzieCrockett-module-ii/static/media/histories.e4486f01.png",
+    "static/media/App.css": "/LizzieCrockett-module-ii/static/media/lelyportrait.200794a5.jpg",
+    "static/media/oroonoko.jpg": "/LizzieCrockett-module-ii/static/media/oroonoko.ef6c08cc.jpg",
+    "static/media/propaganda.png": "/LizzieCrockett-module-ii/static/media/propaganda.35e68eca.png",
+    "static/media/suriname.jpg": "/LizzieCrockett-module-ii/static/media/suriname.21f8185f.jpg",
+    "static/media/theatre.jpg": "/LizzieCrockett-module-ii/static/media/theatre.78e192d3.jpg",
+    "static/media/therover.jpg": "/LizzieCrockett-module-ii/static/media/therover.4f1fb49e.jpg",
+    "static/media/virginiawoolf.jpg": "/LizzieCrockett-module-ii/static/media/virginiawoolf.7f54dc16.jpg",
+    "static/media/widowranter.jpg": "/LizzieCrockett-module-ii/static/media/widowranter.7c463e46.jpg"
   },
   "entrypoints": [
     "static/js/runtime-main.29407199.js",
-    "static/js/2.b5df2823.chunk.js",
-    "static/css/main.967f0de0.chunk.css",
-    "static/js/main.93f8cf9d.chunk.js"
+    "static/js/2.05fd3aa4.chunk.js",
+    "static/css/main.dd1c063e.chunk.css",
+    "static/js/main.abe1a6d3.chunk.js"
   ]
 }
