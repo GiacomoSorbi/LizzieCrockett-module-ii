@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/LizzieCrockett-module-ii/static/css/main.dd1c063e.chunk.css",
+    "main.css": "/LizzieCrockett-module-ii/static/css/main.dac1ea84.chunk.css",
     "main.js": "/LizzieCrockett-module-ii/static/js/main.abe1a6d3.chunk.js",
     "main.js.map": "/LizzieCrockett-module-ii/static/js/main.abe1a6d3.chunk.js.map",
     "runtime-main.js": "/LizzieCrockett-module-ii/static/js/runtime-main.29407199.js",
@@ -8,9 +8,9 @@
     "static/js/2.05fd3aa4.chunk.js": "/LizzieCrockett-module-ii/static/js/2.05fd3aa4.chunk.js",
     "static/js/2.05fd3aa4.chunk.js.map": "/LizzieCrockett-module-ii/static/js/2.05fd3aa4.chunk.js.map",
     "index.html": "/LizzieCrockett-module-ii/index.html",
-    "precache-manifest.2a75a7ed3820a56431ba18fec97c6afa.js": "/LizzieCrockett-module-ii/precache-manifest.2a75a7ed3820a56431ba18fec97c6afa.js",
+    "precache-manifest.9b6df4cb116fffc68c89ad4e272fa3dd.js": "/LizzieCrockett-module-ii/precache-manifest.9b6df4cb116fffc68c89ad4e272fa3dd.js",
     "service-worker.js": "/LizzieCrockett-module-ii/service-worker.js",
-    "static/css/main.dd1c063e.chunk.css.map": "/LizzieCrockett-module-ii/static/css/main.dd1c063e.chunk.css.map",
+    "static/css/main.dac1ea84.chunk.css.map": "/LizzieCrockett-module-ii/static/css/main.dac1ea84.chunk.css.map",
     "static/js/2.05fd3aa4.chunk.js.LICENSE.txt": "/LizzieCrockett-module-ii/static/js/2.05fd3aa4.chunk.js.LICENSE.txt",
     "static/media/agnesdecastro.jpg": "/LizzieCrockett-module-ii/static/media/agnesdecastro.31361118.jpg",
     "static/media/antwerp.jpg": "/LizzieCrockett-module-ii/static/media/antwerp.1e3ae13e.jpg",
@@ -35,7 +35,7 @@
   "entrypoints": [
     "static/js/runtime-main.29407199.js",
     "static/js/2.05fd3aa4.chunk.js",
-    "static/css/main.dd1c063e.chunk.css",
+    "static/css/main.dac1ea84.chunk.css",
     "static/js/main.abe1a6d3.chunk.js"
   ]
 }
